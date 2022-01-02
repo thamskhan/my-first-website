@@ -1,4 +1,10 @@
 h1 {
+  width: 35%;
   background-color: #cae6ff;
   color: royalblue;
+}
+.profile {
+  width: 10%;
+  border: 2px solid #ad7100;
+  border-radius: 50px;
 }
